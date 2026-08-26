@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import {createRoot} from 'react-dom/client';
 import {motion,AnimatePresence} from 'framer-motion';
-import {ArrowUpRight,Github,Linkedin,Mail,MapPin,Download,Menu,X,ExternalLink} from 'lucide-react';
+import {ArrowUpRight,Github,LinkedinIcon,Mail,MapPin,Download,Menu,X,ExternalLink} from 'lucide-react';
 import './styles.css';
 
 const G='https://github.com/nithyasrid', L='https://www.linkedin.com/in/nithya-sri-d-b94b86281/', E='mailto:nithyasridevasenan9706@gmail.com';
